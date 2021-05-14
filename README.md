@@ -6,3 +6,4 @@ Please enjoy
 ### Data Engineering
 ### [Leet Code](https://github.com/jieunlim/Leetcode)
 
+<img src='https://www.softwebsolutions.com/wp-content/uploads/2016/07/Data-Science.jpg'>
